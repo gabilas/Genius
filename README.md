@@ -9,7 +9,7 @@ Jogo Genius com Arduino feito com o intuito de obter nota da matéria de MicroCo
 
 ## Instruções de uso
 
-- Montar o circuito como descrito na imagem abaixo ou jogar utilizando o link do TinkerCAD (https://www.tinkercad.com/things/kLvfXpAJv1k)
+- Montar o circuito como descrito na imagem abaixo ou jogar utilizando o link do TinkerCAD (https://www.tinkercad.com/things/kLvfXpAJv1k);
 - Pressionar o primeiro botão para que o jogo começe;
 - Repetir as sequências que são geradas aleatóriamente;
 - Aguardar o LED apagar para poder dar coninuidade a sequência;
