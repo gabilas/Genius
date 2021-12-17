@@ -30,8 +30,9 @@ Jogo Genius com Arduino feito com o intuito de obter nota da matéria de MicroCo
 - Arduino;
 - ProtoBoard para montar o circuito;
 - Jumpings p/ conexões.
-
-![image](https://user-images.githubusercontent.com/83181634/146466803-149cbdaa-7e9d-47a0-a8fd-c1099e10f880.png)
-
 ```
 =====================================================================================
+
+- Esquema:
+
+![image](https://user-images.githubusercontent.com/83181634/146466803-149cbdaa-7e9d-47a0-a8fd-c1099e10f880.png)
