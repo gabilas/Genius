@@ -21,7 +21,7 @@ Jogo Genius com Arduino feito com o intuito de obter nota da matéria de MicroCo
 
 - Componetes:
 
-=====================================================================================
+===========================================================================
 ```
 - 4 LED's;
 - 4 botões;
@@ -31,7 +31,7 @@ Jogo Genius com Arduino feito com o intuito de obter nota da matéria de MicroCo
 - ProtoBoard para montar o circuito;
 - Jumpings p/ conexões.
 ```
-=====================================================================================
+===========================================================================
 
 - Esquema:
 
